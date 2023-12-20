@@ -52,9 +52,8 @@
 
 
 - 📚 Сейчас я учусь на [курсе "Функциональное тестирование ПО"](https://www.artsiomrusau.com/qa-from-scratch#tariffs)
-- 🌱 Мои учебные работы доступны на 
+- 🌱 Мои учебные работы доступны на [GitHub](https://github.com/LenaraKisheva?tab=repositories)
 - ✉️ Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kisheva.lenara@gmail.com)
-- 💅 Случайный факт обо мне: я Nail-стилист
 
 
 ---
@@ -130,3 +129,18 @@
 
 ---
 ### Тестовые артефакты:
+
+<ul>
+  <li>  <a href="https://github.com/LenaraKisheva/testingGuru99">
+  Тестирование веб-приложения</a> </li> 
+  <li>  <a href="https://github.com/LenaraKisheva/api_testing">
+  Тестирование API с помощью Postman</a> </li>
+  <li>  <a href="https://github.com/LenaraKisheva/sql">
+  Тестирование данных</a> </li> 
+  <li>  <a href="https://github.com/LenaraKisheva/mobile_testing">
+  Тестирование мобильных приложений</a> </li> 
+   <li>  <a href="https://github.com/LenaraKisheva/bash_git">
+  Работа с git и bash</a> </li> 
+   <li>  <a href="https://github.com/LenaraKisheva/proxy/blob/main/README.md">
+  Перехват трафика через Charles Proxy</a> </li>
+</ul>
